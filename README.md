@@ -32,6 +32,13 @@ This GitHub repository contains the input files for classical molecular dynamics
     - `npt-equil.in` 1 µs
   - **Production Run**: Files for the production run.
     - `cum_md1.in` 10 ns
+- **rgs01-ga** RGS1-Gα<sub>i</sub>1
+- **rgs02-ga** RGS2-Gα<sub>i</sub>3
+- **rgs04-ga** RGS4-Gα<sub>i</sub>1
+- **rgs08-ga** RGS8-Gα<sub>i</sub>3
+- **rgs09-ga** RGS9-Gα<sub>t/i</sub>1
+- **rgs10-ga** RGS10-Gα<sub>i</sub>3
+- **rgs16-ga** RGS16-Gα<sub>i</sub>1
 
 ## Simulation Details
 
