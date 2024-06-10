@@ -29,9 +29,9 @@ This GitHub repository contains the input files for classical molecular dynamics
     - `5cum_md0000000.in` 5 kcal mol<sup>-1</sup>Å<sup>-2</sup>
     - `6cum_md0000000.in` 0 kcal mol<sup>-1</sup>Å<sup>-2</sup>
   - **NPT Equilibration**: Files for the constant pressure and temperature (NPT) equilibration steps.
-  - `npt-equil.in`
+    - `npt-equil.in` 1 µs
   - **Production Run**: Files for the production run.
-    - `cum_md1.in`
+    - `cum_md1.in` 10 ns
 
 ## Simulation Details
 
