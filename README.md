@@ -44,9 +44,9 @@ This GitHub repository contains the input files for classical molecular dynamics
  - **rgs09-ga** RGS9-Gα<sub>t/i1
    - PDB ID: [1FQK](https://www.rcsb.org/structure/1FQK)
  - **rgs10-ga** RGS10-Gα<sub>i3
-  - PDB ID:  [2IHB](https://www.rcsb.org/structure/2IHB)
+   - PDB ID:  [2IHB](https://www.rcsb.org/structure/2IHB)
  - **rgs16-ga** RGS16-Gα<sub>i1
-  - PDB ID:  [2IK8](https://www.rcsb.org/structure/2IK8)
+   - PDB ID:  [2IK8](https://www.rcsb.org/structure/2IK8)
     
 ## Simulation Details
 
