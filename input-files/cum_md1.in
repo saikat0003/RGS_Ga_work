@@ -1,4 +1,4 @@
-500ns MD NPT simulation
+1000ns MD NPT simulation
  &cntrl
   imin = 0, irest = 1, ntx = 7,
   iwrap= 1,
@@ -9,7 +9,7 @@
   ntc = 2, ntf = 2,
   tempi = 300.0, temp0 = 300.0,
   ntt = 3, gamma_ln = 1.0,
-  nstlim = 250000000, dt = 0.002,
+  nstlim = 500000000, dt = 0.002,
   ntpr = 10000, ntwx = 10000, ntwr = 10000
  /
 
