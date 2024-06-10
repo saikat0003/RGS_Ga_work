@@ -17,13 +17,14 @@ This GitHub repository contains the input files for classical molecular dynamics
     - `cum_md0.in`
     - `cum_md00.in`
     - `cum_md0000000.in`
-  - **NVT Equilibration**: Files for the NVT equilibration steps with different positional constraints from 100 to 0 kcal mol−1Å−2.
-    - `1cum_md0000000.in`
-    - `2cum_md0000000.in`
-    - `3cum_md0000000.in`
-    - `4cum_md0000000.in`
-    - `5cum_md0000000.in`
-    - `6cum_md0000000.in`
+  - **NVT Equilibration**: Files for the NVT equilibration steps.
+    - `cum_md0000000.in` 100 kcal mol<sup>-1</sup>Å<sup>-2</sup>  
+    - `1cum_md0000000.in` 25 kcal mol<sup>-1</sup>Å<sup>-2</sup>
+    - `2cum_md0000000.in` 20 kcal mol<sup>-1</sup>Å<sup>-2</sup>
+    - `3cum_md0000000.in` 15 kcal mol<sup>-1</sup>Å<sup>-2</sup>
+    - `4cum_md0000000.in` 10 kcal mol<sup>-1</sup>Å<sup>-2</sup>
+    - `5cum_md0000000.in` 5 kcal mol<sup>-1</sup>Å<sup>-2</sup>
+    - `6cum_md0000000.in` 0 kcal mol<sup>-1</sup>Å<sup>-2</sup>
   - **NPT Equilibration**: Files for the constant pressure and temperature (NPT) equilibration steps.
   - **Production Run**: Files for the production run.
     - `cum_md1.in`
