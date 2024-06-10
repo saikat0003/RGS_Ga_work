@@ -33,12 +33,19 @@ This GitHub repository contains the input files for classical molecular dynamics
   - **Production Run**: Files for the production run.
     - `cum_md1.in` 10 ns
 - **rgs01-ga** RGS1-Gα<sub>i1
+   - PDB ID: [2GTP] (https://www.rcsb.org/structure/2GTP)
 - **rgs02-ga** RGS2-Gα<sub>i3
+   - PDB ID:
 - **rgs04-ga** RGS4-Gα<sub>i1
+   - PDB ID:
 - **rgs08-ga** RGS8-Gα<sub>i3
+   - PDB ID:
 - **rgs09-ga** RGS9-Gα<sub>t/i1
+   - PDB ID:
 - **rgs10-ga** RGS10-Gα<sub>i3
+  - PDB ID:
 - **rgs16-ga** RGS16-Gα<sub>i1
+  - PDB ID:
 
 ## Simulation Details
 
