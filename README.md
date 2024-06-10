@@ -7,12 +7,12 @@ This GitHub repository contains the input files for classical molecular dynamics
 - **input-files**
   - **Minimization**: Files for the minimization steps.
     - `min0.in` 100 kcal mol<sup>-1</sup>Å<sup>-2</sup>
-    - `min1.in`
-    - `min2.in`
-    - `min3.in`
-    - `min4.in`
-    - `min5.in`
-    - `min6.in`
+    - `min1.in` 25 kcal mol<sup>-1</sup>Å<sup>-2</sup>
+    - `min2.in` 20 kcal mol<sup>-1</sup>Å<sup>-2</sup>
+    - `min3.in` 15 kcal mol<sup>-1</sup>Å<sup>-2</sup>
+    - `min4.in` 10 kcal mol<sup>-1</sup>Å<sup>-2</sup>
+    - `min5.in`kcal 5 mol<sup>-1</sup>Å<sup>-2</sup>
+    - `min6.in`kcal 0 mol<sup>-1</sup>Å<sup>-2</sup> 
   - **NVT Heating**: Files for the constant volume and temperature (NVT) heating steps.
     - `cum_md0.in`
     - `cum_md00.in`
