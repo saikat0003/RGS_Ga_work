@@ -1,0 +1,14 @@
+initial minimization of complete system in NVT
+ &cntrl
+  imin   = 1,
+  maxcyc = 10000,
+  ncyc   = 5000,
+  ntb    = 1,
+  ntr    = 1,
+  cut    = 12.0
+ /
+Hold the DNA fixed
+100.0
+RES 1 456
+END
+END
