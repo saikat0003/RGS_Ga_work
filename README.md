@@ -36,31 +36,31 @@ This GitHub repository contains the input files for classical molecular dynamics
  - **rgs01-ga** RGS1-Gα<sub>i1
    - PDB ID: [2GTP](https://www.rcsb.org/structure/2GTP)
    - Topology: `rgs01.parm7`
-   - Initial Cord:
+   - Initial Cord: `rgs01.rst7`
  - **rgs02-ga** RGS2-Gα<sub>i3
    - PDB ID: [2V4Z](https://www.rcsb.org/structure/2V4Z)
    - Topology: `rgs02.parm7`
-   - Initial Cord:
+   - Initial Cord: `rgs02.rst7`
  - **rgs04-ga** RGS4-Gα<sub>i1
    - PDB ID: [1AGR](https://www.rcsb.org/structure/1AGR)
    - Topology: `rgs04.parm7`
-   - Initial Cord:
+   - Initial Cord: `rgs04.rst7`
  - **rgs08-ga** RGS8-Gα<sub>i3
    - PDB ID: [2ODE](https://www.rcsb.org/structure/2ODE)
    - Topology: `rgs08.parm7`
-   - Initial Cord:
+   - Initial Cord: `rgs08.rst7`
  - **rgs09-ga** RGS9-Gα<sub>t/i1
    - PDB ID: [1FQK](https://www.rcsb.org/structure/1FQK)
    - Topology: `rgs09.parm7`
-   - Initial Cord:
+   - Initial Cord: `rgs09.rst7`
  - **rgs10-ga** RGS10-Gα<sub>i3
    - PDB ID:  [2IHB](https://www.rcsb.org/structure/2IHB)
    - Topology: `rgs10.parm7`
-   - Initial Cord:
+   - Initial Cord: `rgs10.rst7`
  - **rgs16-ga** RGS16-Gα<sub>i1
    - PDB ID:  [2IK8](https://www.rcsb.org/structure/2IK8)
    - Topology: `rgs16.parm7`
-   - Initial Cord:
+   - Initial Cord: `rgs16.rst7`
     
 ## Simulation Details
 
